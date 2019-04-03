@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths xmlns:android="http://schemas.android.com/apk/res/android">
+    <files-path name="local_app_images" path="local_image/"/>
+    <external-path name="my_images" path="Android/data/com.ForVia.gg_1st_hw/files/Pictures" />
+</paths>

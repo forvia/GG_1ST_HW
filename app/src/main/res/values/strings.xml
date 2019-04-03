@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">GG_1ST_HW</string>
+    <string name="Audio_tab">Audio</string>
+    <string name="Take_a_photo">Fotografēt</string>
+    <string name="Photo_tab">Fotografešana</string>
+    <string name="record">Ierakstīt</string>
+    <string name="StopRecording">Partraukt ierakstu</string>
+    <string name="main_photo">Galvenais Foto</string>
+</resources>
